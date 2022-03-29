@@ -7,28 +7,30 @@
   font-size: 14px;
 }
 
-.para {
+p.para {
   font-size: 22px;
 }
 
-.confirm {
+.confirm{
   background: green;
   color: white;
+  font-size: 20px;
   font-weight: bold;
 } 
 
-.button {
+.cancel {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
-}
-
-.child {
-  color: red;
-  font-size: 14px;
 }
 
 div.text {
   color: green;
   font-size: 22px;
 }
+
+.text .child {
+  color: red;
+  font-size: 14px;
+}
+
